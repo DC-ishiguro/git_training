@@ -14,6 +14,7 @@
 - git switch (branch名)
     * ブランチを変える。
     * 新しいブランチを作成して変える場合、git switch -c (branch名)
+    * ブランチを上書きして変える場合、git switch -C (branch名)
 - git diff  
     * 差分を見たい場合
 - git mv (変更前のファイル名) (変更後のファイル名)  
