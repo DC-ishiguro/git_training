@@ -10,7 +10,7 @@
     * branchを消す場合は、git branch -d (branch名)
 - checkout (branch名)
     * branchを変えたい場合
-    * git switchでいいのでは。
+    * git switchでいいのでは？
 - git switch (branch名)
     * ブランチを変える。
     * 新しいブランチを作成して変える場合、git switch -c (branch名)
